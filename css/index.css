@@ -230,8 +230,13 @@ img {
 
 .info-one {
  color: white;
+ margin-left: 50px;
+ margin-top: 10px;
 }
-.info-under {
+
 .info-under {
     color: rgb(119, 116, 116);
+    margin-left: 50px;
 }
+
+
