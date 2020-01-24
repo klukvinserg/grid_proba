@@ -307,4 +307,5 @@ input[type="search"] {
 .img-inner:hover {
     transform: scale(1.03);
     cursor: pointer;
+    filter: brightness(70%);
 }
